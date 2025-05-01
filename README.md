@@ -11,4 +11,3 @@
 
 ## UI
 ![app](https://github.com/user-attachments/assets/0cc68dd5-f789-43db-9a5f-95aef00e7832)
->>>>>>> 776756b6e0a8cd6e279322cabdd98b89d8531215
